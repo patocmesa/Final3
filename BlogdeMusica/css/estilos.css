@@ -1,0 +1,21 @@
+.redes{
+    redes-align:right
+}
+
+.columna1 {
+    background-color: #E8E6E6;
+}
+
+.columna2 {
+    background-color: #B1AFAF;
+    height: auto;
+}
+
+.text-justified {
+    text-align: justify;
+}
+
+.navbar-inverse {
+  background-color: #FFFFFF;
+  border: none;
+}
